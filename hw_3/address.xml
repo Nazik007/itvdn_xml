@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<addresses_list>
+    <address>
+        <city size="small">Kyiv</city>
+        <street>Khreshchatyk</street>
+        <house_number>86</house_number>
+    </address>
+    <address>
+        <city size="small">Ternopil</city>
+        <street>Faina</street>
+        <house_number>76/3</house_number>
+    </address>
+</addresses_list>
